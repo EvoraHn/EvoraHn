@@ -1,9 +1,9 @@
 ### Hi Im Miguel!
 
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+
 ```js
 const EvoraHn = { 
-
-        technologies:
 
         pronouns: "He" | "Him", code: ["Javascript", "Html5", "Python", "Java", ], askMeAbout: ["web dev", "tech", "app dev", "photography"], technologies: { mobileApp: ["Android App"],
         
