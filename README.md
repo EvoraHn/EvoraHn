@@ -1,6 +1,6 @@
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Html5", "Python", "Java", ],
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
@@ -12,11 +12,11 @@ const anmol = {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
         },
-        
-        databases: ["sqlserver", "MySql", "sqlite"],
-        
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Im developing sales control systems with database on cloud",
-    funFact: "Better a diamond with a flaw than a pebble without one. ~ Confucious"
+    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
