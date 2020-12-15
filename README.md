@@ -14,7 +14,6 @@
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
   <br />
-<br />
 
 ---
 
@@ -51,8 +50,6 @@ const EvoraHn = {
 ```
 <br />
 <br />
-<br />
-<br />
 
 ---
 ### GitHub Stats
@@ -65,8 +62,6 @@ const EvoraHn = {
 </p>
 
 </details>
-<br />
-<br />
 
 ---
 ### Languages and tools
