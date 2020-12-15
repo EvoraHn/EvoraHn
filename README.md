@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**EvoraHn/EvoraHn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Html5", "Python", "Java", ],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        
+        databases: ["sqlserver", "MySql", "sqlite"],
+        
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "Im developing sales control systems with database on cloud",
+    funFact: "Better a diamond with a flaw than a pebble without one. ~ Confucious"
+};
