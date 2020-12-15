@@ -1,7 +1,9 @@
 ### Hi Im Miguel!
 
-'''js
+```js
 const EvoraHn = { 
+
+        technologies:
 
         pronouns: "He" | "Him", code: ["Javascript", "Html5", "Python", "Java", ], askMeAbout: ["web dev", "tech", "app dev", "photography"], technologies: { mobileApp: ["Android App"],
         
@@ -17,3 +19,4 @@ const EvoraHn = {
 
     funFact: "Better a diamond with a flaw than a pebble without one. ~ Confucious"
 };
+```
