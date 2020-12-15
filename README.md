@@ -2,15 +2,18 @@
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 
-can you tap me on:
+can you tap me
  <a href="https://www.linkedin.com/in/miguel-eliab-rodríguez-evora/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
+  <a href="mailto:eliabevorarodri@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
 I speak English 
 y 
 también hablo español.
-Acknowledgement: https://github.com/anuraghazra/github-readme-stats 
+
 
 
 ```js
