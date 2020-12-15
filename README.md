@@ -7,7 +7,10 @@ can you tap me on:
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+I speak English 
+y 
+también hablo español.
+Acknowledgement: https://github.com/anuraghazra/github-readme-stats 
 
 
 ```js
