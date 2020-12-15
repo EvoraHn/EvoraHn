@@ -1,6 +1,10 @@
 ### Hi Im Eliab Evora!
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+<br />
+<br />
+
+---
 
 ### can you tap me!
  <a href="https://www.linkedin.com/in/miguel-eliab-rodríguez-evora-267630196/">
@@ -9,11 +13,18 @@
   <a href="mailto:eliabevorarodri@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
+  <br />
+<br />
+
+---
 
 I speak English 
 y 
 también hablo español.
+<br />
+<br />
 
+---
 
 
 ```js
@@ -45,15 +56,22 @@ const EvoraHn = {
 
 ---
 ### GitHub Stats
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=EvoraHn&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EvoraHn&hide=css,java,html&theme=radical">
+</p>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.EvoraHn.vercel.app/api?username=EvoraHn&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+</details>
 <br />
 <br />
 
 ---
 <br />
 <br />
-### Languages and tools:
+### Languages and tools
 <br />
 <br />
 
