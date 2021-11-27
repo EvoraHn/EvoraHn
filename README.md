@@ -1,6 +1,6 @@
 ### Hi Im Eliab Evora!
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 *studing* or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **Learning** *studing* or *working* on my **laptop** 👨‍💻
 <br />
 <br />
 
@@ -17,9 +17,8 @@
 
 ---
 
-I speak English 
-y 
-también hablo español.
+Aprendiendo : React & Atlas
+
 <br />
 
 
