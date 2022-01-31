@@ -51,7 +51,7 @@ const EvoraHn = {
 ---
 ### GitHub Stats
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=EvoraHn&show_icons=true&theme=radical&line_height=27">
